@@ -1,0 +1,64 @@
+body{
+    background-image: url(1.jpg);
+    margin: 0px;
+}
+header{
+    color: rgb(208, 255, 1);
+    background-image: url(1.jpg);;
+    padding: 5px;
+    
+}
+.aljun{
+    color: blue;
+}
+.art {
+    color: rgb(21, 3, 37);
+    background-color: coral;
+}
+.apple {
+    color:  white;
+}
+ul li {
+    list-style: none;
+    margin-left: 0%;
+    margin-right: 10px;  
+    color: ;
+}
+
+    
+
+body ul{
+ display: flex;
+  margin : 0%;
+  padding: 0%;
+
+}
+button{
+    margin: 10px;
+    padding: 5px;
+    color: darkgrey;
+    size: 50px;
+
+}
+button:hover{
+    background-color: blue ;
+}
+.home:hover{
+    background-color: rgb(102, 255, 0);
+}
+ul:hover{
+    background-color: red;
+}
+.aljun{
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 1cm;
+    line-height: 1cm;
+    text-indent: 1 cm;
+    text-decoration: line-through;
+    word-spacing: 1cm;
+    
+}
